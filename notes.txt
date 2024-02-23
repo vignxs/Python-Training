@@ -1,0 +1,9 @@
+Introduction:
+Welcome and Introduction:
+
+Greet the student warmly.
+Briefly introduce yourself, your background, and your expertise in Python.
+Understand Student's Background:
+
+Ask about the student's prior experience with programming or Python.
+Inquire about their specific goals and expectations from the training.

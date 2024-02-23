@@ -1,0 +1,34 @@
+python intro
+why python
+print
+if else
+data type
+variable
+type of variable declaration
+difference cases
+global var 
+private variable
+casting
+fizz buzz
+input
+return
+def function
+multiline str
+escape char
+db intro
+figma intro
+Multiline Strings
+Slicing
+Modify Strings
+Concatenation
+Format - Strings
+Escape Characters
+str Methods
+bool
+operators
+Arithmetic operators
+Assignment operators
+Comparison operators
+Logical operators
+Identity operators
+Membership operators    
