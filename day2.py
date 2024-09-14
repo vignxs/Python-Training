@@ -27,14 +27,14 @@ n = True
 
 i = 0
 while n:
-    print(i)
+    # print(i)
     
     i +=1
     
     if i==5:
         n= False
 
-x , y , z = 1, 2, 3, 4
+x , y , z = 1, 2, 3
 
 x , y = {"key", 'value'}
 
@@ -43,10 +43,9 @@ vignesh = dinesh = akash = 1
 numbers = [ 1,1,1, 2, 3]
 
 
-x , y , z = numbers
-numbers = {1,1,1, 2} 
+x , y , *z = numbers
+numbers = {1,1,1} 
 
-numbers[2]
 
 
 
@@ -59,6 +58,10 @@ a = 5
 def test():
     # global b
     b = 6
+    print(a)
+
+print(b)
+    
 
 test()
 
